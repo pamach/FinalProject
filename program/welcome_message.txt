@@ -1,0 +1,7 @@
+Welcome to the Pet Matcher! 
+You will receive a series of prompts that will determine the best pet for you!
+Answer each prompt with a 1, 2, or 3, using the guide below.
+1 -- I don't agree with this at all
+2 -- I'm not sure how I feel about this
+3 -- I totally agree with this
+
