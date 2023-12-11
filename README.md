@@ -64,8 +64,9 @@ def get_prompt_answers() -> list:
         answer_C = validate_input(constants.PET_C_PROMPTS[i])
         answer_D = validate_input(constants.PET_D_PROMPTS[i])
         # keep the list in a clear order to make finding the total sums
+        # for each pet category easier
         list.extend([answer_A, answer_B, answer_C, answer_D])
-    return list  # for each pet category easier
+    return list  
 ```
 
 This function asks the user to respond to each prompt, and record the user's response in an ordered list. It depends on another function: validate_input() which we will explore next. Technically, it is validate_input() that is asking the prompts and returning the user's response, but it truly is get_prompt_answers() that runs the show. We see that this function tells validate_input() exactly what to ask, in what order, and where to store the response. For each loop, this function obtains a response for each of the four pet categories *first*, and *then* adds the values to a list for storage. This kills two birds with one stone: we are able to alternate the category of prompt being asked, and keep track of each answer in an organized way. 
