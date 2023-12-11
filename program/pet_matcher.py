@@ -60,8 +60,9 @@ def get_prompt_answers() -> list:
         answer_C = validate_input(constants.PET_C_PROMPTS[i])
         answer_D = validate_input(constants.PET_D_PROMPTS[i])
         # keep the list in a clear order to make finding the total sums
+        # for each pet category easier
         list.extend([answer_A, answer_B, answer_C, answer_D])
-    return list  # for each pet category easier
+    return list 
 
 
 def sum_results(list: [int], index: int) -> int:
