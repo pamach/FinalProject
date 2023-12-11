@@ -1,0 +1,144 @@
+Microsoft Windows [Version 10.0.19045.3693]
+(c) Microsoft Corporation. All rights reserved.
+
+C:\Users\alvar\OneDrive\Documents\FOUNDATIONS\FinalProject>python pet_matcher.py
+Welcome to the Pet Matcher!
+You will receive a series of prompts that will determine the best pet for you!
+Answer each prompt with a 1, 2, or 3, using the guide below.
+1 -- I don't agree with this at all
+2 -- I'm not sure how I feel about this
+3 -- I totally agree with this
+
+
+Small pets are cute.
+1
+I want to be able to teach my pet tricks.
+2
+I want to be able to cuddle my pet.
+3
+I love dinosaurs.
+1
+I can be very gentle and calm with my pet.
+2
+I want two or more pets at a time.
+1
+I'd like going on long walks with my pet.
+3
+Watching my pet eat mice would be cool.
+3
+I will remember to wash my hands after holding my pet.
+1
+I think talking to my pet would be fun.
+3
+I am ready to potty train my pet.
+3
+I don't mind a pet with scales.
+1
+Hooray! Your pet match is:
+Dog
+Here is some information about your pet match:
+Dog Info
+You can take responsibility for a variety of care tasks for a pet dog. Younger kids can give fresh food and water and wash towels and bedding, and tweens and teens can take dogs out on walks, and even help out with teeth brushing.
+
+Dogs can live to be well over 10 years old (some for 20 years or even more), so they are long-term commitments.
+
+Thank you for using the Pet Matcher!
+
+C:\Users\alvar\OneDrive\Documents\FOUNDATIONS\FinalProject>python pet_matcher.py
+Welcome to the Pet Matcher!
+You will receive a series of prompts that will determine the best pet for you!
+Answer each prompt with a 1, 2, or 3, using the guide below.
+1 -- I don't agree with this at all
+2 -- I'm not sure how I feel about this
+3 -- I totally agree with this
+
+
+Small pets are cute.
+55
+Your answer must be 1, 2, or 3.
+Small pets are cute.
+2222
+Your answer must be 1, 2, or 3.
+Small pets are cute.
+2
+I want to be able to teach my pet tricks.
+1
+I want to be able to cuddle my pet.
+one
+Your answer cannot contain letters. It must be the whole number '1', '2' or '3'
+I want to be able to cuddle my pet.
+3
+I love dinosaurs.
+1
+I can be very gentle and calm with my pet.
+2
+I want two or more pets at a time.
+3
+I'd like going on long walks with my pet.
+3
+Watching my pet eat mice would be cool.
+3
+I will remember to wash my hands after holding my pet.
+1
+I think talking to my pet would be fun.
+2
+I am ready to potty train my pet.
+2
+I don't mind a pet with scales.
+2
+Hooray! Your pet match is:
+Dog
+Here is some information about your pet match:
+Dog Info
+You can take responsibility for a variety of care tasks for a pet dog. Younger kids can give fresh food and water and wash towels and bedding, and tweens and teens can take dogs out on walks, and even help out with teeth brushing.
+
+Dogs can live to be well over 10 years old (some for 20 years or even more), so they are long-term commitments.
+
+Thank you for using the Pet Matcher!
+
+C:\Users\alvar\OneDrive\Documents\FOUNDATIONS\FinalProject>python pet_matcher.py
+Welcome to the Pet Matcher!
+You will receive a series of prompts that will determine the best pet for you!
+Answer each prompt with a 1, 2, or 3, using the guide below.
+1 -- I don't agree with this at all
+2 -- I'm not sure how I feel about this
+3 -- I totally agree with this
+
+
+Small pets are cute.
+1
+I want to be able to teach my pet tricks.
+1
+I want to be able to cuddle my pet.
+1
+I love dinosaurs.
+3
+I can be very gentle and calm with my pet.
+1
+I want two or more pets at a time.
+1
+I'd like going on long walks with my pet.
+1
+Watching my pet eat mice would be cool.
+3
+I will remember to wash my hands after holding my pet.
+1
+I think talking to my pet would be fun.
+1
+I am ready to potty train my pet.
+1
+I don't mind a pet with scales.
+3
+Hooray! Your pet match is:
+Snake
+Here is some information about your pet match:
+Snake Info
+"Corn snakes can be very gentle," says Dr. Hess.
+
+The corn snake can grow to be 2.5-5 feet, so you will need to adjust their terrarium size as they grow. They are great starter reptiles for older children because they do not mind being handled. They do require rodents as food, but they should be freshly deceased or frozen, because live mice can injure your pet snake.
+
+Corn snakes have a life span of 5-10 years, so they are long-term commitments.
+
+Thank you for using the Pet Matcher!
+
+C:\Users\alvar\OneDrive\Documents\FOUNDATIONS\FinalProject>

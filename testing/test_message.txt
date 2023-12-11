@@ -1,0 +1,3 @@
+This is the test file
+for checking the functions
+in the constants module.
